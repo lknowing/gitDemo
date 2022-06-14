@@ -13,9 +13,6 @@ public class test {
     @Test
     public void test001() {
         System.out.println("-------test-------");
-        System.out.println("-------test-------");
-        System.out.println("-------test-------");
-        System.out.println("-------test-------");
         System.out.println("-------hot-fix222-------");
         System.out.println("-------hot-fix-------");
     }
